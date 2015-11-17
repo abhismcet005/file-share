@@ -1,4 +1,4 @@
-# file-share
+# fileshare
 
   Share directory and files on http server on single click.
 
