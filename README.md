@@ -15,13 +15,13 @@ After Installing the module, run following command in terminal to share files/di
 ```sh
 $ file-share --port --path
 ```
-# port (optional)
+### port (optional)
  -  Provide port number, you want to use. Default port is 9000.
 
-# path (optional)
+### path (optional)
  - Absolute path of directory, you want to share. Default path is current directory.
 
-# Example
+### Example
 
 ```sh
 $ file-share --port 8080 --path /home/user
